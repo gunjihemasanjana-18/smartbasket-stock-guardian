@@ -37,7 +37,7 @@ function Brand() {
   );
 }
 
-function NavLinks({ onNavigate }: { onNavigate?: () => void }) {
+function NavLinks({ onNavigate }: { onNavigate?: (() => void) | undefined }) {
   const { cartCount, products, bills } = useStore();
   const alerts = stockAlerts(products, bills).length;
   return (
@@ -98,7 +98,7 @@ function ResetDemo() {
   );
 }
 
-function SidebarBody({ onNavigate }: { onNavigate?: () => void }) {
+function SidebarBody({ onNavigate }: { onNavigate?: (() => void) | undefined }) {
   return (
     <div className="flex h-full flex-col gap-8 p-5">
       <Brand />

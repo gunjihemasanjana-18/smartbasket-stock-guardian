@@ -9,7 +9,7 @@ const STORAGE_KEY = "freshmart-store-v1";
 
 type Action =
   | { type: "replace"; state: StoreState }
-  | { type: "saveProduct"; product: Product; originalId?: string; movementId: string; date: string }
+  | { type: "saveProduct"; product: Product; originalId?: string | undefined; movementId: string; date: string }
   | { type: "deleteProduct"; id: string }
   | { type: "adjustStock"; id: string; change: number; reason: MovementReason; movementId: string; date: string }
   | { type: "setCartQty"; id: string; qty: number }
