@@ -68,8 +68,6 @@ Instead of simply displaying available stock, the system helps identify products
 
 **Project Name:** FreshMart – SmartBasket & Intelligent Stock Guardian
 
-**Project Type:** PS7 Academic Project
-
 **Domain:** Grocery Management System
 
 ## 🚀 Future Enhancements
