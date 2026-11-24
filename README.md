@@ -86,11 +86,26 @@ Our goal is to transform traditional grocery management into a smarter, faster, 
 ## 📸 Website Screenshots
 
 ### Home Page
-![FreshMart Home Page](FreshMart-Screenshots/home.png)
+![Screenshot 2026-11-24 214520](FreshMartScreenshots/home.png)
 
 ### Product Listing
-![Product Listing](FreshMart-Screenshots/products.png)
+![Screenshot 2026-11-24 214556](FreshMartScreenshots/products.png)
 
 ### Smart Stock Guardian
-![Smart Stock Guardian](FreshMart-Screenshots/stock-guardian.png)
+![Screenshot 2026-11-24 214733](FreshMartScreenshots/stock-guardian.png).
+
+### Customer Orders
+![Screenshot 2026-11-24 214615](FreshMartScreenshots/stock-guardian.png).
+
+### Billing System
+![Screenshot 2026-11-24 214634](FreshMartScreenshots/stock-guardian.png).
+
+### Inventory Mnagement
+![Screenshot 2026-11-24 214649](FreshMartScreenshots/stock-guardian.png).
+
+### Previous Bills
+![Screenshot 2026-11-24 214704](FreshMartScreenshots/stock-guardian.png).
+
+### Sales Reports
+![Screenshot 2026-11-24 214719](FreshMartScreenshots/stock-guardian.png).
 **FreshMart – Making Grocery Management Smarter! 🛒**
