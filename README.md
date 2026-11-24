@@ -172,7 +172,41 @@ src/
 
 Our goal is to transform traditional grocery management into a smarter, faster, and more efficient system using technology.
 
----
+## 🚀 How to Run the Project
+
+Follow these steps to run FreshMart locally.
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### Installation
+
+**Step 1: Clone the repository**
+
+git clone https://github.com/gunjihemasanjana-18/smartbasket-stock-guardian.git
+
+**Step 2: Navigate to the project folder**
+
+cd smartbasket-stock-guardian
+
+**Step 3: Install dependencies**
+
+npm install
+
+**Step 4: Start the development server**
+
+npm run dev
+
+**Step 5: Open the application**
+
+Open the local URL displayed in your terminal, usually:
+
+http://localhost:3000
+
+The terminal will display the actual address and port used by the development server.
 ## 📸 Website Screenshots
 
 ### Home Page
