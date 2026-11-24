@@ -4,19 +4,53 @@
 
 FreshMart is a smart grocery management system designed to simplify grocery shopping, billing, and inventory management. It combines customer-friendly shopping features with intelligent stock monitoring to help store owners manage their businesses efficiently.
 
+### 📌 Problem Statement
+
+Traditional grocery stores often face challenges in managing product inventory, generating bills, tracking customer orders, and identifying products that need restocking.
+
+Manual processes can lead to stock shortages, billing errors, inefficient inventory management, and difficulty understanding sales patterns.
+
+FreshMart aims to address these challenges through a smart grocery management system that combines automated billing, inventory tracking, and intelligent stock recommendations.
+
 ## 🌟 Project Overview
 
 Traditional grocery stores often face challenges such as manual billing, inventory mismanagement, stock shortages, and difficulty identifying popular products.
 
 FreshMart addresses these problems through an integrated grocery management solution with intelligent features.
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
-- Simplify grocery billing and shopping.
-- Maintain accurate product stock information.
-- Reduce stock shortages through intelligent recommendations.
-- Identify popular products.
-- Provide useful business insights.
+1. Develop a user-friendly grocery management website.
+
+2. Simplify product selection and billing.
+
+3. Implement customer-based discount management.
+
+4. Improve product inventory monitoring.
+
+5. Identify products that require restocking.
+
+6. Provide sales reports and business insights.
+
+7. Make grocery management faster and more efficient.
+
+### 💡 Project Innovation
+
+The major innovation of FreshMart is Smart Stock Guardian.
+
+Unlike a basic grocery management system, FreshMart focuses on intelligent inventory assistance.
+
+Innovative Features:
+
+Smart Stock Guardian: Helps identify products with low stock and provides restocking recommendations.
+
+SmartBasket: Provides organized shopping and purchase summaries.
+
+Popular Product Predictor: Helps identify popular products based on available sales information.
+
+Daily Business Insights: Helps store owners understand business performance.
+
+Our objective is to move beyond traditional grocery billing and create a smarter grocery management experience.
 
 ## ✨ Key Features
 
