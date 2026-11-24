@@ -80,6 +80,42 @@ Instead of simply displaying available stock, the system helps identify products
 - Prettier
 - Vitest
 
+## 🏗️ Project Architecture
+
+FreshMart follows a modular application structure using React, TypeScript, and TanStack Start.
+
+### Source Code Structure
+
+src/
+├── components/       # Reusable UI components
+├── hooks/            # Custom React hooks
+├── lib/              # Utility functions and shared logic
+├── routes/           # Application pages and routes
+├── test/             # Testing files
+├── routeTree.gen.ts  # Generated route tree
+├── router.tsx        # Application routing
+├── server.ts         # Server configuration
+├── start.ts          # Application startup
+└── styles.css        # Global styling
+
+### Main Application Modules
+
+- Smart Billing
+- Product Management
+- Customer Orders
+- SmartBasket
+- Inventory Management
+- Smart Stock Guardian
+- Previous Bills
+- Sales Reports
+
+### Application Workflow
+
+1. Users interact with the FreshMart website.
+2. The application processes shopping and billing operations.
+3. Inventory information is managed through the application.
+4. Smart Stock Guardian identifies products that may require restocking.
+5. Business reports help store owners understand sales activity.
 ## 🌐 Live Website
 
 [Visit FreshMart](https://smartbasket-stock-guardian.lovable.app/)
