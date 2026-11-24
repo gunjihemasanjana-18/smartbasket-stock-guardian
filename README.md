@@ -83,5 +83,14 @@ Instead of simply displaying available stock, the system helps identify products
 Our goal is to transform traditional grocery management into a smarter, faster, and more efficient system using technology.
 
 ---
+## 📸 Website Screenshots
 
+### Home Page
+![FreshMart Home Page](FreshMart-Screenshots/home.png)
+
+### Product Listing
+![Product Listing](FreshMart-Screenshots/products.png)
+
+### Smart Stock Guardian
+![Smart Stock Guardian](FreshMart-Screenshots/stock-guardian.png)
 **FreshMart – Making Grocery Management Smarter! 🛒**
