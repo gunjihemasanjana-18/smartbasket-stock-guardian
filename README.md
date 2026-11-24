@@ -56,9 +56,29 @@ Instead of simply displaying available stock, the system helps identify products
 
 ## 🛠️ Technologies Used
 
-- Lovable – Website development.
-- GitHub – Source code management.
-- Java – Console application development.
+### Frontend
+- React 19
+- TypeScript
+- TanStack Start
+- TanStack Router
+
+### Styling and UI
+- Tailwind CSS 4
+- Radix UI
+- Lucide React
+
+### Data Visualization and Management
+- Recharts
+- TanStack React Query
+- Zod
+
+### Development Tools
+- Lovable AI
+- Vite
+- GitHub
+- ESLint
+- Prettier
+- Vitest
 
 ## 🌐 Live Website
 
